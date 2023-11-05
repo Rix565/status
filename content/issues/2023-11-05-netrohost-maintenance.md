@@ -2,10 +2,10 @@
 section: issue
 title: NetroHost maintenance
 date: 2023-11-05T05:00:33.279Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2023-11-05T13:00:05.893Z
 affected:
   - rixy.eu.org
@@ -23,3 +23,5 @@ As such, a downtime is needed. Thats why from 6AM CET to 2PM CET, all of RixyNet
 **This network rewrite should make NextSMP work again, like it did before, and make it actually enjoyable.**
 
 Sorry for inconveniences.
+
+**_UPDATE_**: Maintenance did not go as planned, and as such, all changes are reverted. Sorry...
