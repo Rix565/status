@@ -16,4 +16,10 @@ affected:
   - Cerulean
 severity: down
 ---
-*Investigating*
+NetroHost has announced that they are doing emergency maintenance on all of their services to recreate their network.
+
+As such, a downtime is needed. Thats why from 6AM CET to 2PM CET, all of RixyNet will be down.
+
+**This network rewrite should make NextSMP work again, like it did before, and make it actually enjoyable.**
+
+Sorry for inconveniences.
