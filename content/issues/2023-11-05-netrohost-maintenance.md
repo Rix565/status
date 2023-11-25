@@ -14,7 +14,7 @@ affected:
   - Oldverse N3XT
   - SaveMii
   - Cerulean
-severity: notice
+severity: down
 ---
 NetroHost has announced that they are doing emergency maintenance on all of their services to recreate their network.
 
