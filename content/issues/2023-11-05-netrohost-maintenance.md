@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2023-11-05T13:00:05.893Z
+resolvedWhen: ""
 affected:
   - rixy.eu.org
   - NextSMP
