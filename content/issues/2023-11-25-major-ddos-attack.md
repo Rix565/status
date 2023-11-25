@@ -8,7 +8,12 @@ informational: false
 pin: true
 resolvedWhen: 2023-11-25T18:19:51.436Z
 affected:
-  - "*"
+  - rixy.eu.org
+  - NextSMP
+  - StupidIndigo
+  - Oldverse N3XT
+  - SaveMii
+  - Cerulean
 severity: down
 ---
 ## A major DDOS attack is happening and as such, all of RixyNet's services are currently down.
